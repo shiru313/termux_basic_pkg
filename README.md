@@ -8,7 +8,7 @@ Termux basic comends #kerala
 
 - pkg install git
 
-- git clone [copy link 👆]
+- git clone https://github.com/shiru313/termux_basic_pkg.git
 
 - cd termux_basics_pkg
 
