@@ -5,12 +5,14 @@ Termux basic comends #kerala
 # By sHirf4n n00b H4CK3R
 
 {for this bignners} 
-- pkg install python
+
+FOLLOW THIS COMENDS 👇
 
 - apt update
 
 - apt upgrade
 
+- pkg install python
 - pkg install git
 
 - git clone https://github.com/shiru313/termux_basic_pkg.git
