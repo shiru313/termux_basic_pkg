@@ -17,7 +17,7 @@ FOLLOW THIS COMENDS 👇
 
 - git clone https://github.com/shiru313/termux_basic_pkg.git
 
-- cd termux_basics_pkg
+- cd termux_basic_pkg
 
 - python basic.py
 
