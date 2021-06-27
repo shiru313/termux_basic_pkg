@@ -1,5 +1,8 @@
 # termux_basic_pkg
-Termux basic comends #kerala 
+Termux basic comends #kerala
+
+ 
+# By sHirf4n n00b H4CK3R
 
 {for this bignners} 
 - pkg install python
