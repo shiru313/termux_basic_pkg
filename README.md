@@ -1,6 +1,7 @@
 # termux_basic_pkg
 Termux basic comends #kerala 
-{or this bignners} 
+
+{for this bignners} 
 - pkg install python
 
 - apt update
